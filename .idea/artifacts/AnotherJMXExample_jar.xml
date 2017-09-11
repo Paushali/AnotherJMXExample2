@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AnotherJMXExample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnotherJMXExample_jar</output-path>
+    <root id="archive" name="AnotherJMXExample.jar">
+      <element id="module-output" name="AnotherJMXExample" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jmxtools-1.2.1.jar/jmxtools-1.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
